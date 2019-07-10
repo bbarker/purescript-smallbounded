@@ -1,0 +1,26 @@
+{
+  "name": "purescript-smallbounded",
+  "homepage": "https://github.com/bbarker/purescript-smallbounded",
+  "license": "MPL-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bbarker/purescript-smallbounded.git"
+  },
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "output",
+    "bower.json",
+    "package.json"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^4.1.0"
+  },
+  "devDependencies": {
+    "purescript-test-unit": "^15.0.0",
+    "purescript-console": "^4.2.0",
+    "purescript-debug": "^4.0.0",
+    "purescript-foreign": "^5.0.0"
+  }
+}
